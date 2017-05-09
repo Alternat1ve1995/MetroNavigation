@@ -1,0 +1,13 @@
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\bin\Release\Metro Navigation.exe.config
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\bin\Release\Metro Navigation.exe
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\bin\Release\Metro Navigation.pdb
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\MainWindow.g.cs
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\App.g.cs
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\Metro Navigation_MarkupCompile.cache
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\Metro Navigation_MarkupCompile.lref
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\MainWindow.baml
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\Metro Navigation.g.resources
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\Metro_Navigation.Properties.Resources.resources
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\Metro Navigation.csproj.GenerateResource.Cache
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\Metro Navigation.exe
+E:\Work\Metro Navigation\Metro Navigation\Metro Navigation\obj\Release\Metro Navigation.pdb
